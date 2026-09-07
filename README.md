@@ -1,7 +1,7 @@
 # Tharun M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tharun6370/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tharun6370/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=about.me)](https://tharun6370.github.io/my_portfolio)
 [![Email](https://img.shields.io/badge/Email-tharun6370@gmail.com-red?style=flat&logo=gmail)](mailto:tharun6370@gmail.com)
 
